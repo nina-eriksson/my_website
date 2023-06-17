@@ -8,7 +8,7 @@ params:
   banner:
     buttonText: Get Started
     subtitle: |-
-      A PORTFOLIO
+      AN INTERESTING PORTFOLIO
     title: Nina Ferrer-Eriksson Personal Website
   blog: {}
   contact:
@@ -96,7 +96,7 @@ params:
         subtitle: Coding Weekend
         title: The first website I created
         url: https://nina-eriksson.github.io/
-      - image: djia.jpeg
+      - image: stocks.jpeg
         subtitle: DJIA stocks
         title: Risk & Return
         url: blogs/risk_return
@@ -105,7 +105,7 @@ params:
         #title: Etiam
         #url: blogs/ipsum
   two:
-    buttonText: See the lifestlye
+    buttonText: Read
     enable: yes
     subtitle: "You may write me down in history
  With your bitter, twisted lies,
@@ -113,7 +113,7 @@ You may trod me in the very dirt
 But still, like dust, I'll rise.
 "
     title: Poem by Maya Angelou
-    url: blogs
+    url: https://www.poetryfoundation.org/poems/46446/still-i-rise
 markup: 
   goldmark: 
     renderer: 
