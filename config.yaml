@@ -100,10 +100,10 @@ params:
         subtitle: DJIA stocks
         title: Risk & Return
         url: blogs/risk_return
-      #- image: pic06.jpg
-       # subtitle: Feugiat Amet Tempus
-        #title: Etiam
-        #url: blogs/ipsum
+      - image: DSC_0139 OKK.jpg
+        subtitle: For Referencee
+        title: My CV
+        url: blogs/Nina Ferrer-Eriksson CV.pdf
   two:
     buttonText: Read
     enable: yes
