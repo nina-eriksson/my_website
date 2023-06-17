@@ -96,10 +96,10 @@ params:
         subtitle: Coding Weekend
         title: The first website I created
         url: https://nina-eriksson.github.io/
-     # - image: pic05.jpg
-      #  subtitle: Ipsum Dolor Sit Amet
-       # title: Consequat
-        #url: blogs/ipsum
+      - image: djia.jpeg
+        subtitle: DJIA stocks
+        title: Risk & Return
+        url: blogs/risk_return
       #- image: pic06.jpg
        # subtitle: Feugiat Amet Tempus
         #title: Etiam

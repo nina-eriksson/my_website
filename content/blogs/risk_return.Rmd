@@ -46,6 +46,10 @@ library(lubridate) #to handle dates
 library(ggrepel)
 ```
 
+```{r}
+knitr::include_graphics("/img/blogs/pic07.jpg",error=FALSE)
+brexit_results <- read_csv(here::here("data","brexit_results.csv"))
+```
 
 # Returns of financial stocks
 
