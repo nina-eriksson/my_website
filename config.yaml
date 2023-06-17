@@ -83,27 +83,27 @@ params:
       - image: lbs.jpg
         subtitle: Masters in Financial Analysis
         title: Time to Eat!
-        url: blogs/aliquam
-      - image: pic02.jpg
+        url: https://www.london.edu/
+      - image: berenjack.jpeg
         subtitle: Don't forget book in advance
         title: Time to eat!
-        url: blogs/tempus
+        url: https://berenjaklondon.com/
       - image: marylebone.jpeg
         subtitle: Home Sweet Home
         title: Marylebone
-        url: blogs/magna
-      - image: pic04.jpg
-        subtitle: Data Visualisation
-        title: Ipsum
-        url: blogs/ipsum
-      - image: pic05.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Consequat
-        url: blogs/ipsum
-      - image: pic06.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Etiam
-        url: blogs/ipsum
+        url: https://www.marylebonevillage.com/
+      - image: salva.jpeg
+        subtitle: Coding Weekend
+        title: The first website I created
+        url: https://nina-eriksson.github.io/
+     # - image: pic05.jpg
+      #  subtitle: Ipsum Dolor Sit Amet
+       # title: Consequat
+        #url: blogs/ipsum
+      #- image: pic06.jpg
+       # subtitle: Feugiat Amet Tempus
+        #title: Etiam
+        #url: blogs/ipsum
   two:
     buttonText: Get Started
     enable: yes
